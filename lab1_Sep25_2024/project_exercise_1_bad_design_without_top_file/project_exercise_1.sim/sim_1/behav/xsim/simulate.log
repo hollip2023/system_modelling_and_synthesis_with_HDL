@@ -1,0 +1,71 @@
+Time resolution is 1 ps
+Error: Testbench failed for scoresA=000  scoresB=100  result Expected winner=10  but got winner=00
+Time: 20 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=000  scoresB=010  result Expected winner=10  but got winner=00
+Time: 30 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=100  scoresB=000  result Expected winner=01  but got winner=01
+Time: 90 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=100  scoresB=100  result Expected winner=11  but got winner=01
+Time: 100 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=100  scoresB=010  result Expected winner=11  but got winner=10
+Time: 110 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=100  scoresB=110  result Expected winner=10  but got winner=11
+Time: 120 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=100  scoresB=011  result Expected winner=10  but got winner=11
+Time: 150 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=010  scoresB=000  result Expected winner=01  but got winner=01
+Time: 170 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=010  scoresB=100  result Expected winner=11  but got winner=01
+Time: 180 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=010  scoresB=010  result Expected winner=11  but got winner=10
+Time: 190 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=010  scoresB=110  result Expected winner=10  but got winner=11
+Time: 200 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=010  scoresB=011  result Expected winner=10  but got winner=11
+Time: 230 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=110  scoresB=000  result Expected winner=01  but got winner=01
+Time: 250 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=110  scoresB=100  result Expected winner=01  but got winner=01
+Time: 260 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=110  scoresB=110  result Expected winner=11  but got winner=10
+Time: 280 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=110  scoresB=011  result Expected winner=11  but got winner=10
+Time: 310 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=110  scoresB=111  result Expected winner=10  but got winner=11
+Time: 320 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=001  scoresB=000  result Expected winner=01  but got winner=11
+Time: 330 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=001  scoresB=100  result Expected winner=11  but got winner=01
+Time: 340 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=001  scoresB=010  result Expected winner=11  but got winner=10
+Time: 350 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=001  scoresB=110  result Expected winner=10  but got winner=11
+Time: 360 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=001  scoresB=011  result Expected winner=10  but got winner=11
+Time: 390 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=101  scoresB=000  result Expected winner=01  but got winner=01
+Time: 410 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=101  scoresB=100  result Expected winner=01  but got winner=01
+Time: 420 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=101  scoresB=110  result Expected winner=11  but got winner=10
+Time: 440 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=101  scoresB=011  result Expected winner=11  but got winner=10
+Time: 470 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=101  scoresB=111  result Expected winner=10  but got winner=11
+Time: 480 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=011  scoresB=000  result Expected winner=01  but got winner=11
+Time: 490 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=011  scoresB=100  result Expected winner=01  but got winner=01
+Time: 500 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=011  scoresB=110  result Expected winner=11  but got winner=10
+Time: 520 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=011  scoresB=011  result Expected winner=11  but got winner=10
+Time: 550 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=011  scoresB=111  result Expected winner=10  but got winner=11
+Time: 560 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=111  scoresB=000  result Expected winner=01  but got winner=11
+Time: 570 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=111  scoresB=100  result Expected winner=01  but got winner=01
+Time: 580 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd
+Error: Testbench failed for scoresA=111  scoresB=111  result Expected winner=11  but got winner=10
+Time: 640 ns  Iteration: 0  Process: /tb_tally/line__97  File: /home/cola/Downloads/project_exercise_1_bad_design_without_top_file/project_exercise_1.srcs/sim_1/new/tb_tally.vhd

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/cola/Downloads/upload/project_exercise_1/project_exercise_1.srcs/sources_1/new/tally.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tally'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/cola/Downloads/upload/project_exercise_1/project_exercise_1.srcs/sim_1/new/tb_tally.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_tally'

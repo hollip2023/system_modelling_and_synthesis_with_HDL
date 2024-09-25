@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:04:56 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Sep 18 14:48:54 2024
+# Process ID: 31129
+# Current directory: /tools/Xilinx/Vivado/2023.1/project_exercise_1/project_exercise_1.runs/impl_1
+# Command line: vivado -log tally.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source tally.tcl -notrace
+# Log file: /tools/Xilinx/Vivado/2023.1/project_exercise_1/project_exercise_1.runs/impl_1/tally.vdi
+# Journal file: /tools/Xilinx/Vivado/2023.1/project_exercise_1/project_exercise_1.runs/impl_1/vivado.jou
+# Running On: cola-linux, OS: Linux, CPU Frequency: 400.000 MHz, CPU Physical cores: 4, Host memory: 8006 MB
+#-----------------------------------------------------------
+source tally.tcl -notrace
